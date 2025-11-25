@@ -1,0 +1,17 @@
+/* Styling for all paragraph elements */
+p {
+  color: blue; /* Sets the text color to blue */
+  font-size: 16px; /* Sets the font size to 16 pixels */
+}
+
+/* Styling for elements with the class "highlight" */
+.highlight {
+  background-color: yellow; /* Sets the background color to yellow */
+  padding: 10px; /* Adds 10 pixels of padding around the content */
+}
+
+/* Styling for the element with the ID "main-heading" */
+#main-heading {
+  text-align: center; /* Centers the text */
+  margin-top: 20px; /* Adds a top margin of 20 pixels */
+}
